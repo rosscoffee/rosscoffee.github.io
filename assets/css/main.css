@@ -458,6 +458,13 @@ header nav a:hover {
     flex-direction: column;
     justify-content: center;
   }
+
+  .menu-flex .menu1 h4 {
+    white-space: wrap;
+  }
+  .menu-flex .menu1 img {
+    width: 75px;
+  }
 }
 
 .bg-menu {
@@ -502,6 +509,7 @@ header nav a:hover {
 .menu-flex .menu1 {
   width: 49%;
   display: flex;
+  text-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   color: #fff;
