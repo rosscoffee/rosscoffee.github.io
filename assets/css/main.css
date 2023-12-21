@@ -461,6 +461,7 @@ header nav a:hover {
 
   .menu-flex .menu1 h4 {
     white-space: wrap;
+    font-size: 0.875rem;
   }
   .menu-flex .menu1 img {
     width: 75px;
